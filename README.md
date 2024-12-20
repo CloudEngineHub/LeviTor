@@ -4,6 +4,8 @@
 <a href="https://huggingface.co/hlwang06/LeviTor/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)"></a>
 <a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"></a>
 
+https://github.com/user-attachments/assets/bcdc44f9-0307-4179-938f-faca3d5e31ff
+
 [Hanlin Wang](https://scholar.google.com/citations?user=0uO4fzkAAAAJ&hl=zh-CN)<sup>1,2</sup>, [Hao Ouyang](https://ken-ouyang.github.io/)<sup>2</sup>, [Qiuyu Wang](https://scholar.google.com/citations?user=VRsy9v8AAAAJ)<sup>2</sup>, [Wen Wang](https://github.com/encounter1997)<sup>3,2</sup>, [Ka Leong Cheng](https://felixcheng97.github.io/)<sup>4,2</sup>, [Qifeng Chen](https://cqf.io/)<sup>4</sup>,  [Yujun Shen](https://shenyujun.github.io/)<sup>2</sup>, [Limin Wang](https://wanglimin.github.io/)<sup>†,1</sup><br>
 <sup>1</sup>State Key Laboratory for Novel Software Technology, Nanjing University<br> <sup>2</sup>Ant Group <sup>3</sup>Zhejiang University <sup>4</sup>The Hong Kong University of Science and Technology <sup> <br><sup>†</sup>corresponding author
 
