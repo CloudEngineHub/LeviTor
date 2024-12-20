@@ -88,7 +88,7 @@ Follow the following guide to set up the environment.
     pip install gradio==4.36.1
     ```
 
-7. run LeviTor
+7. Run LeviTor
     ```
     python gradio_demo/gradio_run.py --frame_interval 1 --num_frames 16 --pretrained_model_name_or_path checkpoints/stable-video-diffusion-img2vid-xt --resume_from_checkpoint checkpoints/LeviTor --width 288 --height 512 --seed 217113 --mixed_precision fp16 --enable_xformers_memory_efficient_attention --output_dir ./outputs --gaussian_r 10 --sam_path checkpoints/sam_vit_h_4b8939.pth --depthanything_path checkpoints/depth_anything_v2_vitl.pth
     ```
