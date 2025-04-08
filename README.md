@@ -1,4 +1,6 @@
 # LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis
+**CVPR 2025 Highlight**
+
 <a href="https://ppetrichor.github.io/levitor.github.io/"><img src="https://img.shields.io/static/v1?label=Project&message=LeviTor&color=blue"></a>
 <a href="https://arxiv.org/abs/2412.15214"><img src="https://img.shields.io/badge/arXiv-2412.15214-b31b1b.svg"></a>
 <a href="https://huggingface.co/hlwang06/LeviTor/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)"></a>
